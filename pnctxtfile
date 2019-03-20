@@ -1,0 +1,13 @@
+PNC Hotels is a Hotel Booking System
+
+To execute to the files. Follow the steps:
+1. Download Xampp Server(OR you can use any other follows the steps required for it.)
+2. After installing- Go to htdocs folder where xampp is installed.
+3. Copy the whole extracted folder with the name of HotelMaking.
+4. Open Xampp control panel and start Apache and MySql service.
+5. Open browser and go to localhost/phpmyadmin/
+6. Create a database named pnc and import the pnc.sql file to that database.
+7. Now we can access the website locally by going to localhost/HotelMaking/home.html - Opens up the home page.
+8. Now we can signup and use the functions of website.
+
+\\For admin login page - username is admin and password is admin.
